@@ -182,8 +182,8 @@ button {
 }
 
 .benefit__icon-img {
-  width: 28px;
-  height: 28px;
+  width: 38px;
+  height: 38px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
@@ -362,8 +362,8 @@ button {
 }
 
 .catalog-btn__bag-img {
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
@@ -392,8 +392,8 @@ button {
 }
 
 .value__circle {
-  width: 48px;
-  height: 48px;
+  width: 58px;
+  height: 58px;
   border-radius: 50%;
   border: 1.5px solid #bd8a3e;
   display: flex;
@@ -403,8 +403,8 @@ button {
 }
 
 .value__icon-img {
-  width: 26px;
-  height: 26px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
@@ -517,8 +517,8 @@ button {
 }
 
 .directions-btn__map-img {
-  width: 18px;
-  height: 18px;
+  width: 24px;
+  height: 24px;
   object-fit: contain;
   flex-shrink: 0;
   display: block;
@@ -558,8 +558,8 @@ button {
 }
 
 .site-btn__globe-img {
-  width: 24px;
-  height: 24px;
+  width: 30px;
+  height: 30px;
   object-fit: contain;
   flex-shrink: 0;
   transition: transform 0.3s ease;
@@ -675,19 +675,9 @@ button {
   letter-spacing: 0.2px;
 }
 
-.footer__cross-wrap {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin-bottom: 8px;
-}
-
-.footer__ornament-cross {
-  width: 20px;
-  height: 20px;
-  object-fit: contain;
-  mix-blend-mode: multiply;
-  display: block;
+.footer__divider--bottom {
+  margin: 6px auto 14px;
+  max-width: 320px;
 }
 
 .footer__brand {
